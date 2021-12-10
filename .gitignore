@@ -1,6 +1,6 @@
 .DS_Store
 .idea
-$*.pptx
+~$*.pptx
 *.aux
 *.fdb_latexmk
 *.fls
