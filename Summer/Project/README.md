@@ -1,2 +1,1 @@
-# ElGamalProject
-*description will be added later*
+# Cyclic codes
